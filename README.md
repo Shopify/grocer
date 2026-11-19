@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # Grocer
 
 [![Gem Version](https://img.shields.io/gem/v/grocer.svg)](https://rubygems.org/gems/grocer)
